@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1f17a094e1ed9020",
+    "type": "split",
+    "children": [
+      {
+        "id": "080c555a1c17d5b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "共识机制/HotStuff.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "184ee5465be42fbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "02c2bd7d03de9e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e7d9bd18677248d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d4d1efb267f5a0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#视图转换",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b3ac5f8cde05042",
+    "type": "split",
+    "children": [
+      {
+        "id": "40925761e779f094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd1577c0bb7b6d67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "共识机制/HotStuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e7d9bd18677248d",
+  "lastOpenFiles": [
+    "共识机制/PBFT.md",
+    "共识机制/HotStuff.md",
+    "共识机制/共识算法.md",
+    "智能合约.md",
+    "术语/DApp.md",
+    "共识算法的分类.md",
+    "历史.md",
+    "未命名.md",
+    "证明类共识算法.md",
+    "以太坊/Ethash.md"
+  ]
+}
